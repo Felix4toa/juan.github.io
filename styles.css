@@ -1,0 +1,16 @@
+section {
+     margin-bottom: 20px;
+      padding: 20px;
+       background-color: aqua; 
+       border-radius: 5px; 
+       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        border: 1px solid #ddd; /* Añade un borde alrededor de la sección */ 
+        transition: transform 0.3s, box-shadow 0.3s; /* Añade transiciones suaves */}
+        a{
+            text-decoration: aqua;
+
+        }
+        body{
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            background-color: white;
+         }
